@@ -26,9 +26,9 @@ Proposta:
 
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Desafio 02, online](https://devbonatto.github.io/Desafio03/).
+- [Acesse o resultado finalizado do Desafio 02, online](https://devbonatto.github.io/Desafio03/)
 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/kC1ECk4q01OBJzrNcEzC9l/Stage-03-Formul%C3%A1rio-intermedi%C3%A1rio-Copy?fuid=1256335722836990720).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/kC1ECk4q01OBJzrNcEzC9l/Stage-03-Formul%C3%A1rio-intermedi%C3%A1rio-Copy?fuid=1256335722836990720)
