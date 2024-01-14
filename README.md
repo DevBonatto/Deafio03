@@ -26,7 +26,7 @@ Proposta:
 
 
 ## ✅ Resultado
-- [Acesse o resultado finalizado do Desafio 02, online](https://devbonatto.github.io/Desafio03/)
+- [Acesse o resultado finalizado do Desafio 03, online](https://devbonatto.github.io/Deafio03/)
 
 
 ## 🔖 Layout
